@@ -1,0 +1,6 @@
+C:\Users\Patryk\Desktop\PROJEKTX\AudioFile\tests\main.cpp;C:\Users\Patryk\Desktop\PROJEKTX\build\AudioFile\tests\Tests.dir\Debug\main.obj
+C:\Users\Patryk\Desktop\PROJEKTX\AudioFile\tests\GeneralTests.cpp;C:\Users\Patryk\Desktop\PROJEKTX\build\AudioFile\tests\Tests.dir\Debug\GeneralTests.obj
+C:\Users\Patryk\Desktop\PROJEKTX\AudioFile\tests\WavLoadingTests.cpp;C:\Users\Patryk\Desktop\PROJEKTX\build\AudioFile\tests\Tests.dir\Debug\WavLoadingTests.obj
+C:\Users\Patryk\Desktop\PROJEKTX\AudioFile\tests\AiffLoadingTests.cpp;C:\Users\Patryk\Desktop\PROJEKTX\build\AudioFile\tests\Tests.dir\Debug\AiffLoadingTests.obj
+C:\Users\Patryk\Desktop\PROJEKTX\AudioFile\tests\FileWritingTests.cpp;C:\Users\Patryk\Desktop\PROJEKTX\build\AudioFile\tests\Tests.dir\Debug\FileWritingTests.obj
+C:\Users\Patryk\Desktop\PROJEKTX\AudioFile\tests\SampleConversionTests.cpp;C:\Users\Patryk\Desktop\PROJEKTX\build\AudioFile\tests\Tests.dir\Debug\SampleConversionTests.obj
